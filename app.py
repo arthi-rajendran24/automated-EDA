@@ -4,7 +4,7 @@ import plotly.express as px
 
 import functions
 
-st.set_page_config(layout = "wide", page_icon = 'logo.png', page_title='EDA')
+st.set_page_config(layout = "wide", page_title='EDA')
 
 st.header("🎨No-Code Exploratory Data Analysis Tool")
 
